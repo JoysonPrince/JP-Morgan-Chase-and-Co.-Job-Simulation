@@ -22,6 +22,8 @@ Task 2: Conditional Formatting the Sales data
 -- Identify accounts that have a 5-year sales CAGR of at least 100% by highlighting the appropriate CAGR cells in green and any accounts with a negative CAGR in red with white text.
 -- Identify accounts in the top 10% of unit sales for 2021 by highlighting the appropriate 2021 unit sales cells in blue
 
+![JPMC_Task 2   3_CondFormatting_Macros](https://github.com/JoysonPrince/JP-Morgan-Chase-and-Co.-Job-Simulation/assets/137388224/a94f8239-b1e5-4227-8ec8-6faa1849da24)
+
 Task 3: VBA and Macros to automate the tasks
 Created 2 macros for the following metrics:
 -- A macro to sort the entire spreadsheet by 5 YR CAGR in descending order to see which accounts have the highest overall 5-year sales growth
@@ -36,6 +38,8 @@ Task 4: Dashboard
 -- Horizontal Bar chart to show the top-5 performing accounts on the basis of their 5-year CAGR
 -- A combo chart of bar & line charts to show the Year-on-Year sales and sales % growth
 
+![JPMC_Task 4_Dashboard](https://github.com/JoysonPrince/JP-Morgan-Chase-and-Co.-Job-Simulation/assets/137388224/cbf4a6f2-6609-45ef-a3f2-b4a204d8e02a)
+
 Task 5: Data storytelling via MS PowerPoint
 In the realm of data science, the ability to tell a compelling story with data is as crucial as the data itself. Data storytelling is not merely about presenting raw numbers and charts; it's about weaving a narrative that communicates insights, engages stakeholders, and drives informed decision-making
 Here's why data storytelling holds paramount importance:
@@ -43,3 +47,5 @@ i) Humanizing Data
 ii) Enhancing Communication
 iii) Engagement and Persuasion
 iv) Facilitate Decision-Making
+
+[JPMC_Task_5_Data Driven Storytelling.pptx](https://github.com/JoysonPrince/JP-Morgan-Chase-and-Co.-Job-Simulation/files/13899366/JPMC_Task_5_Data.Driven.Storytelling.pptx)
